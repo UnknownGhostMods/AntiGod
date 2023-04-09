@@ -1,5 +1,8 @@
 Main-title {
 color: #00463B;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 300;
 Font-size: 16px;
 }
 
@@ -8,7 +11,21 @@ color: yellow;
 }
 
 body {
+width: 100vw;
+min-width: 100vw;
+height: 100vh;
+min-height: 100vh;
 color: #00463B;
 background-color: black;
 Font-size: 16px;
+}
+
+description {
+color: yellow;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+text-align: center;
+
 }
