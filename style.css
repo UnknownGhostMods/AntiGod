@@ -6,6 +6,14 @@ font-weight: 300;
 Font-size: 16px;
 }
 
+h0 {
+color: red;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 300;
+Font-size: 14px;
+}
+
 h1 {
 font-family: 'Roboto', sans-serif;
 font-style: normal;
@@ -31,7 +39,7 @@ text-align: center;
   background-color: DodgerBlue; /* Blue background */
   border: none; /* Remove borders */
   color: white; /* White text */
-  padding: 16px 16px; /* Some padding */
+  padding: 16px 17px; /* Some padding */
   font-size: 16px; /* Set a font size */
   cursor: pointer; /* Mouse pointer on hover */
 }
