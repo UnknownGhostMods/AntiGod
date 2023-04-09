@@ -16,7 +16,11 @@ min-width: 100vw;
 height: 100vh;
 min-height: 100vh;
 color: #00463B;
-background-color: black;
+background-color: ;
+background-image: url('img_girl.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed; 
+background-size: cover;
 Font-size: 16px;
 }
 
